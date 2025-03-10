@@ -1,5 +1,11 @@
 # 💫 About Me:
-🎱I love playing billiards<br>🎮I love playing mobile games<br>👀My hobby is watching anime<br>
+👋 Hi there! I'm Gian Carlo Lintag, an IT college student with a passion for technology and software development. I’m currently honing my skills in programming languages like Python, Java, and JavaScript, and exploring web development with HTML, CSS, and React.
+
+
+
+
+<br>🌱 I'm eager to learn more about cloud computing and cybersecurity as I work towards my degree.<br>
+💡 I love collaborating on projects and contributing to open-source initiatives. Excited to connect and share ideas with fellow tech enthusiasts!<br>
 
 
 ## 🌐 Socials:
